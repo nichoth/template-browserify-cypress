@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "cypress",
+    "chai-friendly"
+  ],
+  "env": {
+    "no-unused-expressions": 0,
+    "cypress/globals": true,
+    "chai-friendly/no-unused-expressions": 2
+  }
+}
+
