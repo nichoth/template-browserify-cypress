@@ -8,6 +8,6 @@ Open the cypress GUI:
 
 Run cypress tests automatedly:
 
-    $ npmrun cypress-ci
+    $ npm run cypress-ci
     
 
