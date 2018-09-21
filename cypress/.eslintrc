@@ -4,8 +4,10 @@
     "chai-friendly"
   ],
   "env": {
-    "no-unused-expressions": 0,
     "cypress/globals": true,
+  },
+  "rules": {
+    "no-unused-expressions": 0,
     "chai-friendly/no-unused-expressions": 2
   }
 }
